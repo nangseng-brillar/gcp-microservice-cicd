@@ -30,7 +30,7 @@ steps:
   args: 
   - '-c'
   - > 
-    gcloud container clusters get-credentials onlineboutique --zone=us-central1-b $_CLUSTER;
+    gcloud container clusters get-credentials --zone=us-central1-b onlineboutique;
     skaffold run -f=skaffold.yaml --default-repo=gcr.io/gcp-cicd-brillar;
 
 # Add more power, and more time, for heavy Skaffold build
