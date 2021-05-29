@@ -2,7 +2,7 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "Vintage Typewriter",
+            "name": "Vintage Modern Typewriter",
             "description": "This typewriter looks good in your living room.",
             "picture": "/static/img/products/typewriter.jpg",
             "priceUsd": {
@@ -14,7 +14,7 @@
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Antique Camera Seng Seng",
+            "name": "Antique Camera SengSeng",
             "description": "It probably doesn't work anyway.",
             "picture": "/static/img/products/camera-lens.jpg",
             "priceUsd": {
