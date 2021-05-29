@@ -7,7 +7,7 @@
             "picture": "/static/img/products/typewriter.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 67,
+                "units": 90,
                 "nanos": 990000000
             },
             "categories": ["vintage"]
