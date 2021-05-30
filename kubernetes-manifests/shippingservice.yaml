@@ -28,7 +28,7 @@ spec:
       serviceAccountName: default
       containers:
       - name: server
-        image:gcr.io/gcp-cicd-brillar/shippingservice
+        image: gcr.io/gcp-cicd-brillar/shippingservice
         ports:
         - containerPort: 50051
         env:
