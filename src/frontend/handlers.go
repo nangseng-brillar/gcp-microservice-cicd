@@ -129,7 +129,7 @@ func (plat *platformDetails) setPlatformDetails(env string) {
 		plat.provider = "Azure"
 		plat.css = "azure-platform"
 	} else if env == "gcp" {
-		plat.provider = "Google Cloud"
+		plat.provider = "Brillar CICD GCP"
 		plat.css = "gcp-platform"
 	} else {
 		plat.provider = "local"
