@@ -3,7 +3,7 @@
         {
             "id": "OLJCESPC7Z",
             "name": "Brillar Typewriter Testing",
-            "description": "This typewriter looks good in your living room.",
+            "description": "This is Brillar CICD Pipeline",
             "picture": "/static/img/products/typewriter.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
