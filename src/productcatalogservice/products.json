@@ -2,12 +2,12 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "Brillar Typewriter",
+            "name": "Brillar Typewriter Testing",
             "description": "This typewriter looks good in your living room.",
             "picture": "/static/img/products/typewriter.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 90,
+                "units": 100,
                 "nanos": 990000000
             },
             "categories": ["vintage"]
